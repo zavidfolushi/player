@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.MuiList-root-75 {
+  width: 400px;
+  margin: 8px auto !important;
+}
